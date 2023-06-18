@@ -9,9 +9,10 @@ S (Single Responsibility Principal): A class should have only one reason to chan
 O (Open Close Principal) - Open for extension but closed for modification. \
 L (Liskov's Substitution principle) - If Class B is subtype of Class A, then we should be able to replace object of A with B without breaking the behaviour of the program. \
 I (Interface Segmented Principle) - Interfaces should be such, that client should not implement unnecessary methods that they do not need.\
-D (Dependency Inversion Principle) -Class should depend on interfaces rather than concrete classes. \
+D (Dependency Inversion Principle) -Class should depend on interfaces rather than concrete classes.
 
 # Design Patterns
 1. Strategy Pattern
+2. Observer Pattern
 
 
