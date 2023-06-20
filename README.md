@@ -14,5 +14,6 @@ D (Dependency Inversion Principle) -Class should depend on interfaces rather tha
 # Design Patterns
 1. Strategy Pattern
 2. Observer Pattern
+3. Decorator Pattern 
 
 
